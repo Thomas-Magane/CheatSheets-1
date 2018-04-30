@@ -8,6 +8,10 @@
 
 [C++](https://github.com/gibsjose/cpp-cheat-sheet/blob/master/C%2B%2B%20Syntax.md)
 
+## C#
+
+[LINQ](https://vslapp.files.wordpress.com/2011/11/linq-cheatsheet.pdf)
+
 ## CSS
 
 [CSS](https://devhints.io/css)
@@ -63,10 +67,6 @@
 [Cron](https://devhints.io/cron)
 
 [Vim](https://vim.rtorr.com/)
-
-## .NET
-
-[LINQ](https://vslapp.files.wordpress.com/2011/11/linq-cheatsheet.pdf)
 
 ## Tools
 
