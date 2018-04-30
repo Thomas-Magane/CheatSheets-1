@@ -1,69 +1,60 @@
+# Cheat Sheets
 
-  <div margin="5">
-  <h1>Cheat Sheets</h1>
-  <br />
-  <h2>HTML</h2>
-  <br />
-  <a href="https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/html5.html">HTML5</a>
-  <br />
-  <a href="https://hackerthemes.com/bootstrap-cheatsheet/">Bootstrap</a>
-  <br />
-  <a href="https://docs.emmet.io/cheat-sheet/">Emmet</a>
-  <br />
-  <br />
-  <h2>Javascript</h2>
-  <br />
-  <a href="https://devhints.io/es6">ES 2015+</a>
-  <br />
-  <a href="https://dncmagazine.blob.core.windows.net/downloads/AngularCheatSheet-DNCMagazine.pdf">AngularJS</a>
-  <br />
-  <a href="https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/node.js">NodeJS</a>
-  <br />
-  <a href="https://devhints.io/npm">NPM</a>
-  <br />
-  <br />
-  <h2>Shell</h2>
-  <br />
-  <a href="https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh">Bash</a>
-  <br /> 
-  <a href="https://devhints.io/bash">Bash</a>
-  <br /> 
-  <a href="https://devhints.io/fish-shell">Fish Shell</a>
-  <br /> 
-  <a href="https://devhints.io/zsh">Zsh</a>
-  <br /> 
-  <a href="https://devhints.io/curl">Curl</a>
-  <br /> 
-  <a href="https://devhints.io/cron">Cron</a>
-  <br />
-  <a href="https://vim.rtorr.com/">Vim</a>
-  <br />
-  <br />
-  <h2>.NET</h2>
-  <br />
-  <a href="https://vslapp.files.wordpress.com/2011/11/linq-cheatsheet.pdf">LINQ</a>
-  <br />
-  <br />
-  <h2>Misc</h2>
-  <br />
-  <a href="https://www.cheatography.com/ashlyn-black/cheat-sheets/c-reference/pdf/">C</a>
-  <br />
-  <a href="https://github.com/gibsjose/cpp-cheat-sheet/blob/master/C%2B%2B%20Syntax.md">C++</a>
-  <br />
-  <a href="https://devhints.io/css">CSS</a>
-  <br /> 
-  <a href="http://www.cheat-sheets.org/saved-copy/dquick.pdf">Delphi (Turbo Pascal)</a>
-  <br />
-  <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links">Markdown</a>
-  <br /> 
-  <a href="https://www.cheatography.com/davechild/cheat-sheets/sql-server/pdf/">SQL</a>
-  <br />
-  <a href="http://files.zeroturnaround.com/pdf/zt_sql_cheat_sheet.pdf">SQL</a>
-  <br />
-  <br />
-  <h2>Tools</h2>
-  <br />
-  <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Visual Studio Code</a>
-  <br />
-  <br />
-</div>
+## HTML
+
+[HTML5](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/html5.html)
+
+[Bootstrap](https://hackerthemes.com/bootstrap-cheatsheet/)
+
+[Emmet](https://docs.emmet.io/cheat-sheet/)
+
+## Javascript
+
+[ES 2015+](https://devhints.io/es6)
+
+[AngularJS](https://dncmagazine.blob.core.windows.net/downloads/AngularCheatSheet-DNCMagazine.pdf)
+
+[NodeJS](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/node.js)
+
+[NPM](https://devhints.io/npm)
+
+## Shell
+
+[Bash](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh)
+
+[Bash](https://devhints.io/bash)
+
+[Fish Shell](https://devhints.io/fish-shell)
+
+[Zsh](https://devhints.io/zsh)
+
+[Curl](https://devhints.io/curl)
+
+[Cron](https://devhints.io/cron)
+
+[Vim](https://vim.rtorr.com/)
+
+## .NET
+
+[LINQ](https://vslapp.files.wordpress.com/2011/11/linq-cheatsheet.pdf)
+
+## Misc
+
+[C](https://www.cheatography.com/ashlyn-black/cheat-sheets/c-reference/pdf/)
+
+[C++](https://github.com/gibsjose/cpp-cheat-sheet/blob/master/C%2B%2B%20Syntax.md)
+
+[CSS](https://devhints.io/css)
+
+[Delphi (Turbo Pascal)](http://www.cheat-sheets.org/saved-copy/dquick.pdf)
+
+[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+[SQL](https://www.cheatography.com/davechild/cheat-sheets/sql-server/pdf/)
+
+[SQL](http://files.zeroturnaround.com/pdf/zt_sql_cheat_sheet.pdf)
+
+## Tools
+
+[Visual Studio Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+
