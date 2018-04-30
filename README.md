@@ -20,9 +20,9 @@
 
 ## CSS
 
-[CSS](https://devhints.io/css)
-
 [Bootstrap](https://hackerthemes.com/bootstrap-cheatsheet/)
+
+[CSS](https://devhints.io/css)
 
 ## Delphi
 
@@ -30,9 +30,9 @@
 
 ## HTML
 
-[HTML5](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/html5.html)
-
 [Emmet](https://docs.emmet.io/cheat-sheet/)
+
+[HTML5](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/html5.html)
 
 ## Javascript
 
@@ -68,17 +68,18 @@
 
 [Bash](https://devhints.io/bash)
 
-[Fish Shell](https://devhints.io/fish-shell)
-
-[Zsh](https://devhints.io/zsh)
-
 [Curl](https://devhints.io/curl)
 
 [Cron](https://devhints.io/cron)
 
+[Fish Shell](https://devhints.io/fish-shell)
+
+[Git](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+
 [Vim](https://vim.rtorr.com/)
+
+[Zsh](https://devhints.io/zsh)
 
 ## Tools
 
 [Visual Studio Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
-
