@@ -14,6 +14,10 @@
 
 [LINQ](https://vslapp.files.wordpress.com/2011/11/linq-cheatsheet.pdf)
 
+[WPF](http://www.cheat-sheets.org/saved-copy/wpfcheatsheet.pdf)
+
+[WPF (binding)](http://www.nbdtech.com/Free/WpfBinding.pdf)
+
 ## CSS
 
 [CSS](https://devhints.io/css)
@@ -32,9 +36,13 @@
 
 ## Javascript
 
-[ES 2015+](https://devhints.io/es6)
-
 [AngularJS](https://dncmagazine.blob.core.windows.net/downloads/AngularCheatSheet-DNCMagazine.pdf)
+
+[Electron](https://github.com/danialgoodwin/dev/blob/master/platform-electron/electron-cheat-sheet.md)
+
+[Electron](https://simulatedgreg.github.io/electron-cheatsheet/)
+
+[ES 2015+](https://devhints.io/es6)
 
 [NodeJS](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/node.js)
 
