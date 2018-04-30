@@ -50,6 +50,8 @@
 
 [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+[Python 3](http://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html)
+
 [SQL](https://www.cheatography.com/davechild/cheat-sheets/sql-server/pdf/)
 
 [SQL](http://files.zeroturnaround.com/pdf/zt_sql_cheat_sheet.pdf)
