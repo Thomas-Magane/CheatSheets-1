@@ -1,6 +1,6 @@
 # Cheat Sheets
 
-<sup>Disclaimer: I do not own any of the linked cheat sheets, all rights go to the original owners.</sup> 
+<sup>Disclaimer: I do not own any of the linked cheat sheets, all rights reserved to original owners.</sup> 
 
 ## C
 
