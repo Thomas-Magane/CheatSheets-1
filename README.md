@@ -1,5 +1,7 @@
 # Cheat Sheets
 
+<sup>Disclaimer: I do not own any of the linked cheat sheets, all rights go to the original owners.</sup> 
+
 ## C
 
 [C](https://www.cheatography.com/ashlyn-black/cheat-sheets/c-reference/pdf/)
