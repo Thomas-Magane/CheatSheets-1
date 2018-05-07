@@ -1,6 +1,9 @@
 # Cheat Sheets
 
+
 <sup>Disclaimer: I do not own any of the linked cheat sheets, all rights reserved to original owners.</sup> 
+
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/yoav-lavi/CheatSheets/issues)
 
 ## C
 
