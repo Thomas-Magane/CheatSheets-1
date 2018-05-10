@@ -37,7 +37,7 @@
 
 [HTML5](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/html5.html)
 
-## Javascript
+## JavaScript
 
 [AngularJS](https://dncmagazine.blob.core.windows.net/downloads/AngularCheatSheet-DNCMagazine.pdf)
 
