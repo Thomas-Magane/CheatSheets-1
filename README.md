@@ -2,6 +2,8 @@
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/yoav-lavi/CheatSheets/issues)
 
+[![sheet number](https://img.shields.io/badge/30-Sheets-green.svg)](https://github.com/yoav-lavi/CheatSheets/) <sup>and counting!</sup>
+
 <sup>Disclaimer: I do not own any of the linked cheat sheets, all rights reserved to original owners.</sup> 
 
 
